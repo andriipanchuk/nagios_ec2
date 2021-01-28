@@ -29,7 +29,7 @@ resource "google_compute_instance" "vm_instance" {
   #!/bin/bash
   sudo yum install wget -y
   sudo yum install git -y
-  git clole https://github.com/andriipanchuk/nagisxi.git
+  git clone https://github.com/andriipanchuk/nagisxi.git
   cd nagisxi
   cd nagiosxi
   ./fullinstall
