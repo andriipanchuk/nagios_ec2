@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tactile-metrics-303021",
+  "private_key_id": "6a30b9cda21989b6bece04f5f7126e8abc0e46dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDrB9ssZwD4YC3R\n0g+KUsols7fotqzNMZifUOgP+RI9x3t8Ur33RxX67c8ZDuEslXqBIkQ59rvj7bqG\nPHzMGs8mogWar0Dk13s7ap/2AzEYIqBeGt4hpgB17r4LRTdy9q0d2UZ6EL2K796q\nuOBD3fWMbUuV9wGBxchj+uBFoFxXPa95mXOvJ0Q6S8EpaAO8emZCSEkvVNlanOvx\nX6Tgj+ojyTZbwLvQcMSjgtvCAR68w3azNZnIP3JQeZkerwTGm8BW0vsKDt1fKpxq\ntVUi5C/aa3OJoOSRVUR4uMve76Xya+d+Ol1Bo4dyuco7y//5cVOI0qXfAu/pH56s\nCrHqMLXbAgMBAAECggEAD6L1VdDBM5pxLJ6inQvMBNJzn7PDmbU9LQryHYSZzkAU\nJZ3QTgAjOg9nR14COiKfGgdLGGYjcv3GepbR9gxUkC1DB9sKtg7l/8/PYPaDu3zW\nRDHaac0EW9RB6Dhh1jALgssJUXwFTZXkL7c0Ex/UbdQkWA+tFdKwSy044uOmhmvk\nuIO8QiSUd/P0bzmqffPiV91PeCu8FoJ7/5s4ID82ggeSbAKY6nnQstUAyrhifyp1\nohPcsDlS9zHslDqcMQaZynvPbN+aeWAqUcIV1Ii2bEU0ex1dA5V2tFHhx9Ofvf32\nXfH1SY5Lhe/QPUFirTz2SQSAMHEcrTMvgGsH0Np8QQKBgQD6DGfCOL3geyvOFSCY\ntEAjYCnlKBcbAc+4T7pWtm27wcJmkXc+0LBmcSvtqCRahbENHDxjfd1teh3anuHh\nrFxNk0cLC5L9XNWiN+DDfjKkEt9xBkzEZlduQy10R12i+CvkGNmq5gCU89DcWMdu\nCNtVbRtGmQGWJRaUz7vhyeKgmwKBgQDwn/HRDra86SEA0T3z1koTsUeeBMNjqNfb\nkNxJWiGgxYqCMhdU88UnE2LDacBHGpG0fHl3Lu8EhehxwvzWK5cbueRie+7dQrZ1\nm9XB8Ba4r7iqiCb6MXsOL3tiw8R9xQsy+BLRwk1AHunRtcqdPB9NXNoMwVWlctLB\nh4ifQ5BzwQKBgFC23mtoa4ph2BMO6NXCIY4JxZxOI585J3ckbU7+Vk+sTPdU73wc\nW0TGNVri0tFRpIRJ4AhxoZ9sMuTWMq3pOGZmKyGam9kjNWbGyMvyGaCy4uOWGAOx\n0XkrQCnvu38Wwvw/NUwgMIHkbkAifEW9oCdkL9DLJSL1V+OzZr+MrpYPAoGADAr1\nP1FNNAc276OJRjrjWjj1LKNwY/x/US3e2Iz6QeGhHQMEx+urYllGCCGyzdw2jqHs\nMlrW+5L4HzlzDgUAexLCq2soeUptd1VlTV+Gw5eH1oEZ8kunrP4TXs4Nd331IYfo\n6TagRyVE7on6qgPoTSbogtrqPm2Qvr7Zx57KDAECgYADlfKP6yM65D3fKMYGZ2Xs\nQqJsPR/6yJxRTHJT13do7D3Q6ZLpcviLEG9JwFNSl2J2hl5k5U9UXTk2j1adFcOt\n0g/wZzq152aJJUd+ZTIoscNN8YjR2zdya00A8fXbU+2m5KS0Az/t4PG0LxHEzc7G\nZe+Vvvf/KiG6zPYCcDj7ew==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cyber-pro@tactile-metrics-303021.iam.gserviceaccount.com",
+  "client_id": "114896953429887889293",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cyber-pro%40tactile-metrics-303021.iam.gserviceaccount.com"
+}
